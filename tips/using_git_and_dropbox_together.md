@@ -7,6 +7,7 @@
 ```bash
 cd ~/Dropbox/git #Dropboxのフォルダ内にgitというフォルダがある場合
 mkdir repository.git
+cd repository.git
 git --bare init
 ```
 
@@ -16,7 +17,8 @@ ref) [ベアリポジトリ](../repository/bare.md)
 
 ```bash
 #~ /gitフォルダ内にリポジトリを作成
-mkdir ~/git/reppository
+mkdir ~/git/repository
+cd ~/git/repository
 git init
 git add .
 git commit -m "Initial commit"
