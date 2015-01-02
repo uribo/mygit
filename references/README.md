@@ -4,3 +4,7 @@
 
 * Jon Loeliger（吉藤英明監訳） (2010). **実用Git**. *オライリー・ジャパン*
 * 岩松信洋, 上川純一, まえだこうへい, 小川伸一郎 (2011). **Gitによるバージョン管理** *オーム社*
+
+## Qiitaのストック
+
+[自分用リンク](http://qiita.com/search?utf8=✓&sort=rel&q=tag%3Agit&sort=rel&stocked=1)
